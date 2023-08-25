@@ -12,7 +12,7 @@
         android:layout_height="match_parent"
         android:gravity="center"
         android:orientation="vertical"
-        tools:context="com.bignerdranch.android.geoquiz.CheatActivity">
+        tools:context="com.example.geoquiz.CheatActivity">
 
     <TextView
         android:layout_width="wrap_content"
@@ -24,7 +24,7 @@
         android:id="@+id/answer_text_view"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="TextView"
+        android:text=""
         android:padding="24dp"
         tools:text="Answer"/>
 
